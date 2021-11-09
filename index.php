@@ -1,5 +1,5 @@
 <? php
 
-	echo "Meu Projeto Novo."
+	echo "Meu Projeto Novo. Hello World!"
 
 ?>
